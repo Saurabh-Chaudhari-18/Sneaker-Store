@@ -1,0 +1,21 @@
+.home {
+    text-align: center;
+    padding: 20px;
+    background-color: #d0eef5;
+  }
+  
+  .home h2 {
+    font-size: 36px;
+    color: #34495e;
+  }
+  
+  .home p {
+    font-size: 18px;
+    color: #a91b1b;
+  }
+  
+  .hero img {
+    width: 80%;
+    border-radius: 15px;
+  }
+  

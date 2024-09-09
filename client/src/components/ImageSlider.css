@@ -1,0 +1,28 @@
+/* ImageSlider.css */
+.slider-container {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  .slider-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .slick-dots {
+    bottom: -30px;
+  }
+  
+  .slick-prev,
+  .slick-next {
+    z-index: 1;
+  }
+  
+  .slick-prev:before,
+  .slick-next:before {
+    color: black;
+    font-size: 30px;
+  }
+  
